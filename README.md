@@ -29,7 +29,35 @@
 
 
 
-## How I Write Documention
+
+
+## How I Write (Testcases and Automation).
+> 🖥️  Sample Test Object - Hacker News Clone (fork)(React, Remix, Typescript, Node)
+
+> #### Test Features:
+>
+> - #### ✅ Testcases and Testcase Management Examples:
+>   - Functional Testcases aligned to Page Objects.
+>   - Simple, effective Testcases. Ideally targeting a single unit of functionality.
+>   - Testcases are indexed and tagged, aligning to both Manaul Testcases and Automated Tests (grep).
+>   - Testcases are in CSV, formatted for quick import to Testcaes Management Tools (Testrail, etc.)
+>
+> - #### 🤖 Automation Coverage Examples:
+>    - Cypress: Sample Tests (Javascript)
+>    - Playwright: Sample Tests (Javascript)
+>    - Webdriver: Sample Tests (Javascript)
+>    - Jest: Sample Tests (Javascript)
+>    - K6: Sample Tests (Javascript)
+
+## My Cypress References (Best Practices, References, Sources of Truth):
+![alt text](https://github.com/alexpeaceca/testing_patterns/blob/main/assets/cypress-sample.gif)
+>
+>  💻 [Real World Cypress e2e Test Suite](https://github.com/cypress-io/cypress-realworld-app) written by the Cypress Develop Team.
+>
+>  👨‍⚕️ [Cypress Best Practices and Tips](https://glebbahmutov.com/blog/) from the Creator of Cypress.
+
+
+## How I Document
 ![alt text](https://www.http4k.org/img/doc-system.png)
 
 #### Best Practices, References, Sources of Truth:
@@ -40,16 +68,3 @@
 
 > [!TIP]
 > *"... if documentation is not good enough, people will not use it." - Divio*
-
-## How I Write Automation
-
-## Cypress
-![alt text](https://github.com/alexpeaceca/testing_patterns/blob/main/assets/cypress-sample.gif)
-#### Example Cypress Test Suite covering Hacker News
-> 🤖 [alexpeaceca / cypress-hacker-news](https://github.com/alexpeaceca/testing_patterns/tree/main/cypress-hacker-news)
-
-#### Best Practices, References, Sources of Truth:
-
->  💻 [Real World Cypress e2e Test Suite](https://github.com/cypress-io/cypress-realworld-app) written by the Cypress Develop Team
->
->  👨‍⚕️ [Cypress Best Practices and Tips](https://glebbahmutov.com/blog/) from the Creator of Cypress
