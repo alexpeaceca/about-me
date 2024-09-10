@@ -8,31 +8,29 @@
 > Key Concepts:
 >
 > - Software "Testers" (traditional)
->   - Trigger failures and find defects (typically at the end of the development lifecycle)
+>   - Trigger failures and find defects (typically at the end of the development lifecycle).
 >
 > vs.
 >
 > - Quality Assurance Engineers (modern)
->   - Evaluate work products such as requirements, timelines, user stories, designs, and code 
->   - Ensure required coverage of the complete end to end test object
->   - Reduce the level of risk of inadequate software quality (reduce risk, not ensure perfection)
->   - Verify requirements have been fulfilled
->   - Verify the test object complies with contractual, legal, and regulatory requirements
->   - Provide information to stakeholders to allow them to make informed decisions
->   - Build confidence in the quality of the test object
->   - Validate the test object is complete and works as the stakeholders expect it to
->   - ... and also trigger failures and find defects
+>   - Evaluate work products such as requirements, timelines, user stories, designs, and code.
+>   - Ensure required coverage of the complete end to end test object.
+>   - Reduce the level of risk of inadequate software quality (reduce risk, not ensure perfection).
+>   - Verify requirements have been fulfilled.
+>   - Verify the test object complies with contractual, legal, and regulatory requirements.
+>   - Provide information to stakeholders to allow them to make informed decisions.
+>   - Build confidence in the quality of the test object.
+>   - Validate the test object is complete and works as the stakeholders expect it to.
+>   - Trigger failures and find defects.
 >
-> - The context of testing will vary, depending upon the project 
-> - The concepts of testing are the same
-
-
+> - The context of testing will vary, depending upon the project.  The concepts of testing are the same.
+>
 
 
 
 
 ## How I Write (Testcases and Automation).
-> 🖥️  Sample Test Object - Hacker News Clone (fork)(React, Remix, Typescript, Node)
+> 🖥️  Sample Test Object - [Hacker News Clone](https://github.com/alexpeaceca/hackernews-remix-react ) (fork) (React, Remix, Typescript, Node)
 
 > #### Test Features:
 >
