@@ -30,7 +30,8 @@
 
 
 ## How I Write (Testcases and Automation).
-> 🖥️  Sample Test Object - [Hacker News Clone](https://github.com/alexpeaceca/hackernews-remix-react ) (fork) (React, Remix, Typescript, Node)
+![alt-text](https://github.com/alexpeaceca/about-me/blob/main/assets/asset_hackernews-remix-react_local_screen_001.png)
+> 🖥️  ^ Sample Test Object - [Hacker News Clone](https://github.com/alexpeaceca/hackernews-remix-react ) (fork) (React, Remix, Typescript, Node)
 
 > #### Test Features:
 >
