@@ -37,10 +37,11 @@
 >
 > - #### ✅ Testcases and Testcase Management Examples:
 >   - Functional Testcases aligned to Page Objects.
->   - Simple, effective Testcases. Ideally targeting a single unit of functionality.
->   - Page Object Model (pom) for Frontend Tests.
+>   - Simple, effective testcases. Ideally targeting a single unit of functionality.
+>   - Page Object Model (pom) for Front-end Tests.
 >   - Testcases are indexed and tagged, aligning to both Manaul Testcases and Automated Tests (grep).
 >   - Testcases are in CSV, formatted for quick import to Testcaes Management Tools (Testrail, etc.)
+>   - Automated tests run using dynamical generated test data where appicable (fakerJS)
 >
 > - #### 🤖 Automation Coverage Examples:
 >    - Cypress: Sample Tests (Javascript)
