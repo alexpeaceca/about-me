@@ -44,7 +44,7 @@
 >   - Automated tests run using dynamical generated test data where appicable (fakerJS)
 >
 > - #### 🤖 Automation Coverage Examples:
->    - Cypress: Sample Tests (Javascript)
+>    - Cypress: [Sample Tests](https://github.com/alexpeaceca/hackernews-remix-react-tests/tree/main/cypress) (Javascript)
 >    - Playwright: Sample Tests (Javascript)
 >    - Webdriver: Sample Tests (Javascript)
 >    - Jest: Sample Tests (Javascript)
