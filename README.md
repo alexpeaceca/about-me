@@ -69,7 +69,7 @@
 >
 >  👨‍⚕️ [Curated list of awesome tools, utils and projects using Playwright](https://github.com/mxschmitt/awesome-playwright) Max Schmitt from the official Playwright team.
 >
->  🎥 [Chrome extension for output Plawright sytnax](https://github.com/AndrewUsher/playwright-chrome-recorder) Chrome dev tools built in recorder.
+>  🎥 [Chrome Extension for output of Plawright syntax](https://github.com/AndrewUsher/playwright-chrome-recorder) Chrome dev tools built in recorder.
 >
 >  🆕 [Playwright Change Log](https://playwright.dev/docs/release-notes) stay up to date!
 
