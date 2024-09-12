@@ -23,21 +23,22 @@
 >   - Validate the test object is complete and works as the stakeholders expect it to.
 >   - Trigger failures and find defects.
 >
-> - The context of testing will vary, depending upon the project.  The concepts of testing are the same.
+> - Testing strategies should be tailored for the context of the individual project.  The fundementals of testing are the same, regardless of the project.
 >
 
 
 
 
-## How I Write (Testcases and Automation).
+## Sample Testcases and Automation Examples
 ![alt-text](https://github.com/alexpeaceca/about-me/blob/main/assets/asset_hackernews-remix-react_local_screen_001.png)
 > 🖥️  ^ Sample Test Object - [Hacker News Clone](https://github.com/alexpeaceca/hackernews-remix-react ) (fork) (React, Remix, Typescript, Node)
 
-> #### Test Features:
+> #### Test Coverage Features:
 >
 > - #### ✅ Testcases and Testcase Management Examples:
 >   - Functional Testcases aligned to Page Objects.
 >   - Simple, effective Testcases. Ideally targeting a single unit of functionality.
+>   - Page Object Model (pom) for Frontend Tests.
 >   - Testcases are indexed and tagged, aligning to both Manaul Testcases and Automated Tests (grep).
 >   - Testcases are in CSV, formatted for quick import to Testcaes Management Tools (Testrail, etc.)
 >
@@ -48,15 +49,31 @@
 >    - Jest: Sample Tests (Javascript)
 >    - K6: Sample Tests (Javascript)
 
-## My Cypress References (Best Practices, References, Sources of Truth):
-![alt text](https://github.com/alexpeaceca/testing_patterns/blob/main/assets/cypress-sample.gif)
+## Cypress (Best Practices, References, Sources of Truth):
+![alt text](https://github.com/cypress-io/cypress/raw/develop/assets/cypress-logo-light.png)
 >
->  💻 [Real World Cypress e2e Test Suite](https://github.com/cypress-io/cypress-realworld-app) written by the Cypress Develop Team.
+>  💻 [Real World Cypress e2e Test Suite](https://github.com/cypress-io/cypress-realworld-app) written by the Cypress Dev Team.
 >
 >  👨‍⚕️ [Cypress Best Practices and Tips](https://glebbahmutov.com/blog/) from the Creator of Cypress.
+>
+>  🆕 [Cypress Change Log](https://docs.cypress.io/guides/references/changelog)
+>
+![alt text](https://github.com/alexpeaceca/testing_patterns/blob/main/assets/cypress-sample.gif)
+> ^ My Sample Automation Coverage covering a Hacker News Clone (Cypress, Javascript)
+
+## Playwright (Best Practices, References, Sources of Truth):
+## 🎭 Playwright
+>
+>  💻 [Repo demonstrating various testing scenarios](https://github.com/microsoft/playwright-examples) written by the Playwright Dev Team.
+>
+>  👨‍⚕️ [Curated list of awesome tools, utils and projects using Playwright](https://github.com/mxschmitt/awesome-playwright) Max Schmitt from the official Playwright team.
+>
+>  🎥 [Chrome extension for output Plawright sytnax](https://github.com/AndrewUsher/playwright-chrome-recorder) Chrome dev tools built in recorder.
+>
+>  🆕 [Playwright Change Log](https://playwright.dev/docs/release-notes)
 
 
-## How I Document
+## How I write Documentation:
 ![alt text](https://www.http4k.org/img/doc-system.png)
 
 #### Best Practices, References, Sources of Truth:
