@@ -57,7 +57,7 @@
 >
 >  👨‍⚕️ [Cypress Best Practices and Tips](https://glebbahmutov.com/blog/) from the Creator of Cypress.
 >
->  🆕 [Cypress Change Log](https://docs.cypress.io/guides/references/changelog)
+>  🆕 [Cypress Change Log](https://docs.cypress.io/guides/references/changelog) stay up to date!
 >
 ![alt text](https://github.com/alexpeaceca/testing_patterns/blob/main/assets/cypress-sample.gif)
 > ^ My Sample Automation Coverage covering a Hacker News Clone (Cypress, Javascript)
@@ -71,7 +71,7 @@
 >
 >  🎥 [Chrome extension for output Plawright sytnax](https://github.com/AndrewUsher/playwright-chrome-recorder) Chrome dev tools built in recorder.
 >
->  🆕 [Playwright Change Log](https://playwright.dev/docs/release-notes)
+>  🆕 [Playwright Change Log](https://playwright.dev/docs/release-notes) stay up to date!
 
 
 ## How I write Documentation:
