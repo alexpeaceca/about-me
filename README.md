@@ -45,7 +45,7 @@
 >
 > - #### 🤖 Automation Coverage Examples:
 >    - Cypress: [Sample Tests](https://github.com/alexpeaceca/hackernews-remix-react-tests/tree/main/cypress) (Javascript), [Testscases](https://github.com/alexpeaceca/hackernews-remix-react-tests/blob/main/cypress/cypress/testcases-csv/user_anon_page_landing.csv) (CSV)
->    - Playwright: Sample Tests (Javascript)
+>    - Playwright: [Sample Tests](https://github.com/alexpeaceca/hackernews-remix-react-tests/tree/main/playwright) (Typescript), [Testscases](https://github.com/alexpeaceca/hackernews-remix-react-tests/blob/main/playwright/testcases-csv/user_anon_page_landing.csv) (CSV)
 >    - Webdriver: Sample Tests (Javascript)
 >    - Jest: Sample Tests (Javascript)
 >    - K6: Sample Tests (Javascript)
