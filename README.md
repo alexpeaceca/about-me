@@ -39,7 +39,7 @@
 >   - Page Object Model (pom) for Front-end Tests.
 >   - Testcases are indexed and tagged, aligning to both Manaul Testcases and Automated Tests (grep).
 >   - Testcases are in [CSV](https://github.com/alexpeaceca/hackernews-remix-react-tests/blob/main/cypress/cypress/testcases-csv/user_anon_page_landing.csv), formatted for quick import to Testcaes Management Tools (Testrail, etc.)
->   - Automated tests run using dynamical generated test data where appicable (fakerJS)
+>   - Tests are designed to use dynamical generated test data where appicable (fakerJS)
 >
 > - #### 🤖 Automation Coverage Examples:
 >    - Cypress: [Sample Tests](https://github.com/alexpeaceca/hackernews-remix-react-tests/tree/main/cypress) (Javascript), [Testscases](https://github.com/alexpeaceca/hackernews-remix-react-tests/blob/main/cypress/cypress/testcases-csv/user_anon_page_landing.csv) (CSV)
