@@ -23,8 +23,6 @@
 >   - Validate the test object is complete and works as the stakeholders expect it to.
 >   - Trigger failures and find defects.
 >
-> - Testing strategies should be tailored for the context of the individual project.  The fundementals of testing are the same, regardless of the project.
->
 
 
 
@@ -50,18 +48,6 @@
 >    - Jest: Sample Tests (Javascript)
 >    - K6: Sample Tests (Javascript)
 
-## Cypress (Best Practices, References, Sources of Truth):
-![alt text](https://github.com/cypress-io/cypress/raw/develop/assets/cypress-logo-light.png)
->
->  💻 [Real World Cypress e2e Test Suite](https://github.com/cypress-io/cypress-realworld-app) written by the Cypress Dev Team.
->
->  👨‍⚕️ [Cypress Best Practices and Tips](https://glebbahmutov.com/blog/) from the Creator of Cypress.
->
->  🆕 [Cypress Change Log](https://docs.cypress.io/guides/references/changelog) stay up to date!
->
-![alt text](https://github.com/alexpeaceca/testing_patterns/blob/main/assets/cypress-sample.gif)
-> ^ My Sample Automation Coverage covering a Hacker News Clone (Cypress, Javascript)
-
 ## Playwright (Best Practices, References, Sources of Truth):
 ## 🎭 Playwright
 >
@@ -74,7 +60,19 @@
 ![alt text](https://github.com/alexpeaceca/about-me/blob/main/assets/asset_playwright_sample_001.gif)
 > ^ My Sample Automation Coverage covering a Hacker News Clone (Playwright, Typescript)
 
-## How I write Documentation:
+## Cypress (Best Practices, References, Sources of Truth):
+![alt text](https://github.com/cypress-io/cypress/raw/develop/assets/cypress-logo-light.png)
+>
+>  💻 [Real World Cypress e2e Test Suite](https://github.com/cypress-io/cypress-realworld-app) written by the Cypress Dev Team.
+>
+>  👨‍⚕️ [Cypress Best Practices and Tips](https://glebbahmutov.com/blog/) from the Creator of Cypress.
+>
+>  🆕 [Cypress Change Log](https://docs.cypress.io/guides/references/changelog) stay up to date!
+>
+![alt text](https://github.com/alexpeaceca/testing_patterns/blob/main/assets/cypress-sample.gif)
+> ^ My Sample Automation Coverage covering a Hacker News Clone (Cypress, Javascript)
+
+## How I Write Documentation:
 ![alt text](https://www.http4k.org/img/doc-system.png)
 
 #### Best Practices, References, Sources of Truth:
