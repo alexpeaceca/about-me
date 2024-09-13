@@ -69,10 +69,10 @@
 >
 >  👨‍⚕️ [Curated list of awesome tools, utils and projects using Playwright](https://github.com/mxschmitt/awesome-playwright) Max Schmitt from the official Playwright team.
 >
->  🎥 [Chrome Extension for output of Plawright syntax](https://github.com/AndrewUsher/playwright-chrome-recorder) Chrome dev tools built in recorder.
->
 >  🆕 [Playwright Change Log](https://playwright.dev/docs/release-notes) stay up to date!
-
+>
+![alt text](https://github.com/alexpeaceca/about-me/blob/main/assets/asset_playwright_sample_001.gif)
+> ^ My Sample Automation Coverage covering a Hacker News Clone (Playwright, Typescript)
 
 ## How I write Documentation:
 ![alt text](https://www.http4k.org/img/doc-system.png)
