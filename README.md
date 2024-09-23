@@ -72,7 +72,8 @@
   </a>
 </p>
 
-> ^ My Sample Automation Coverage covering a Hacker News Clone (Playwright, Typescript)
+
+> ^ Playwright: [Sample Tests](https://github.com/alexpeaceca/hackernews-remix-react-tests/tree/main/playwright) (Typescript), [Testscases](https://github.com/alexpeaceca/hackernews-remix-react-tests/blob/main/playwright/testcases-csv/user_anon_page_landing.csv) (CSV)
 
 ## Cypress (Best Practices, References, Sources of Truth):
 <p align="center">
@@ -93,8 +94,7 @@
   </a>
 </p>
 
-> ^ My Sample Automation Coverage covering a Hacker News Clone (Cypress, Javascript)
-
+> ^ Cypress: [Sample Tests](https://github.com/alexpeaceca/hackernews-remix-react-tests/tree/main/cypress) (Javascript), [Testscases](https://github.com/alexpeaceca/hackernews-remix-react-tests/blob/main/cypress/cypress/testcases-csv/user_anon_page_landing.csv) (CSV)
 ## K6 (Best Practices, References, Sources of Truth):
 <p align="center">
   <a href="https://k6.io/">
@@ -107,14 +107,8 @@
 <p align="center">Modern load testing for developers and testers in the DevOps era.</p>
 
 >
->  💻 [Real World Cypress e2e Test Suite](https://github.com/cypress-io/cypress-realworld-app) written by the Cypress Dev Team.
+>  💻 [Opinionated starter templates for k6 projects](https://github.com/tom-miseur/k6-templates) written by Tom Miseur of the K6 Dev Team.
 >
->  👨‍⚕️ [Cypress Best Practices and Tips](https://glebbahmutov.com/blog/) from the Creator of Cypress.
->
->  🆕 [Cypress Change Log](https://docs.cypress.io/guides/references/changelog) stay up to date!
->
-![alt text](https://github.com/alexpeaceca/testing_patterns/blob/main/assets/cypress-sample.gif)
-> ^ My Sample Automation Coverage covering a Hacker News Clone (Cypress, Javascript)
 
 ## How I Write Documentation:
 ![alt text](https://www.http4k.org/img/doc-system.png)
