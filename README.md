@@ -1,4 +1,5 @@
 # Quality Assurance Engineer
+![alt text](https://github.com/alexpeaceca/quailty-assurance/blob/main/assets/asset_qa_001.gif)
 
 ## QA Foundation and Philosophy
 
