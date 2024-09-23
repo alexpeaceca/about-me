@@ -127,3 +127,8 @@
 
 > [!TIP]
 > *"... if documentation is not good enough, people will not use it." - Divio*
+
+
+## Quality Assurance Resources :
+####
+> 🧑‍💻 [A curated collection of 250+ resources & tools dedicated to UX research](http://guidetouxr.com/)
