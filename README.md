@@ -2,13 +2,18 @@
 ![alt text](https://github.com/alexpeaceca/quailty-assurance/blob/main/assets/asset_qa_001.gif)
 
 ## QA Foundation and Philosophy
+<p align="center">
+    <img src="https://images.credly.com/images/b965ae85-f404-492c-b6de-1e85c1f1170e/Brightest_CTAL-TA.png" width="400" height="400" /><br>
+  </a>
+</p>
+
 
 ![alt text](https://istqb-main-web-prod.s3.amazonaws.com/media/original_images/ctfl_4_0.png)
 > 📚 [ISTBQ 2023 (current) Software and System Testing Standards](https://istqb-main-web-prod.s3.amazonaws.com/media/documents/ISTQB_CTFL_Syllabus-v4.0.pdf)
 >
 > Key Concepts:
 >
-> - Software "Testers" (traditional)
+> - QA "Testers" (traditional)
 >   - Trigger failures and find defects (typically at the end of the development lifecycle).
 >
 > vs.
