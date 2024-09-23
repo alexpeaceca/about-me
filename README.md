@@ -130,5 +130,9 @@
 
 
 ## Quality Assurance Resources :
-####
+<p align="center">
+    <img src="https://github.com/alexpeaceca/quailty-assurance/blob/main/assets/asset_qa_002.gif" width="400" height="400" /><br>
+  </a>
+</p>
+
 > 🧑‍💻 [A curated collection of 250+ resources & tools dedicated to UX research](http://guidetouxr.com/)
