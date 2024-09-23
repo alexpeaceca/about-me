@@ -3,7 +3,7 @@
 
 ## QA Foundation and Philosophy
 <p align="center">
-    <img src="https://images.credly.com/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/linkedin_thumb_Brightest_CTFL.png" width="400" height="400" /><br>
+    <img src="https://images.credly.com/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/linkedin_thumb_Brightest_CTFL.png" width="750" height="400" /><br>
   </a>
 </p>
 
