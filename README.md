@@ -1,5 +1,5 @@
 # Quality Assurance Engineer
-![alt text](https://github.com/alexpeaceca/quailty-assurance/blob/main/assets/asset_qa_001.gif)
+
 
 ## QA Foundation and Philosophy
 <p align="center">
@@ -40,7 +40,7 @@
 > #### Test Coverage Features:
 >
 > - #### ✅ Testcases and Testcase Management Examples:
->   - Page Objects
+>   - Page Object Models
 >   - Simple, effective testcases. Ideally targeting a single unit of functionality.
 >   - Testcases are indexed and tagged, aligning to both Manaul Testcases and Automated Tests (grep).
 >   - Testcases are in [CSV](https://github.com/alexpeaceca/hackernews-remix-react-tests/blob/main/cypress/cypress/testcases-csv/user_anon_page_landing.csv), formatted for quick import to Testcaes Management Tools (Testrail, etc.)
