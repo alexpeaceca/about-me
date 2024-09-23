@@ -62,7 +62,32 @@
 > ^ My Sample Automation Coverage covering a Hacker News Clone (Playwright, Typescript)
 
 ## Cypress (Best Practices, References, Sources of Truth):
-![alt text](https://github.com/cypress-io/cypress/raw/develop/assets/cypress-logo-light.png)
+<p align="center">
+    <img src="https://github.com/cypress-io/cypress/raw/develop/assets/cypress-logo-light.png" width="400" height="165" /><br>
+  </a>
+</p>
+
+>
+>  💻 [Real World Cypress e2e Test Suite](https://github.com/cypress-io/cypress-realworld-app) written by the Cypress Dev Team.
+>
+>  👨‍⚕️ [Cypress Best Practices and Tips](https://glebbahmutov.com/blog/) from the Creator of Cypress.
+>
+>  🆕 [Cypress Change Log](https://docs.cypress.io/guides/references/changelog) stay up to date!
+>
+![alt text](https://github.com/alexpeaceca/testing_patterns/blob/main/assets/cypress-sample.gif)
+> ^ My Sample Automation Coverage covering a Hacker News Clone (Cypress, Javascript)
+
+## K6 (Best Practices, References, Sources of Truth):
+<p align="center">
+  <a href="https://k6.io/">
+    <img src="https://github.com/grafana/k6/raw/master/assets/logo.svg" alt="k6" width="210" height="210" /><br>
+    <img src="https://github.com/grafana/k6/raw/master/assets/grafana-labs.svg" alt="Grafana Labs" width="210" /><br>
+  </a>
+</p>
+
+<h3 align="center">Like unit testing, for performance</h3>
+<p align="center">Modern load testing for developers and testers in the DevOps era.</p>
+
 >
 >  💻 [Real World Cypress e2e Test Suite](https://github.com/cypress-io/cypress-realworld-app) written by the Cypress Dev Team.
 >
