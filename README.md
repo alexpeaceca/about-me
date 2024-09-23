@@ -54,7 +54,11 @@
 >    - K6: Sample Tests (Javascript)
 
 ## Playwright (Best Practices, References, Sources of Truth):
-## 🎭 Playwright
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Playwright_Logo.svg/1597px-Playwright_Logo.svg.png" width="800" height="165" /><br>
+  </a>
+</p>
+
 >
 >  💻 [Repo demonstrating various testing scenarios](https://github.com/microsoft/playwright-examples) written by the Playwright Dev Team.
 >
@@ -62,7 +66,12 @@
 >
 >  🆕 [Playwright Change Log](https://playwright.dev/docs/release-notes) stay up to date!
 >
-![alt text](https://github.com/alexpeaceca/about-me/blob/main/assets/asset_playwright_sample_001.gif)
+
+<p align="center">
+    <img src="https://github.com/alexpeaceca/about-me/blob/main/assets/asset_playwright_sample_001.gif" width="1200" height="680" /><br>
+  </a>
+</p>
+
 > ^ My Sample Automation Coverage covering a Hacker News Clone (Playwright, Typescript)
 
 ## Cypress (Best Practices, References, Sources of Truth):
@@ -78,7 +87,12 @@
 >
 >  🆕 [Cypress Change Log](https://docs.cypress.io/guides/references/changelog) stay up to date!
 >
-![alt text](https://github.com/alexpeaceca/testing_patterns/blob/main/assets/cypress-sample.gif)
+
+<p align="center">
+    <img src="https://github.com/alexpeaceca/testing_patterns/blob/main/assets/cypress-sample.gif" width="1200" height="680" /><br>
+  </a>
+</p>
+
 > ^ My Sample Automation Coverage covering a Hacker News Clone (Cypress, Javascript)
 
 ## K6 (Best Practices, References, Sources of Truth):
